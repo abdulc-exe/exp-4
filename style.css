@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    transition: background-color 0.5s;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+h2 {
+    color: blue;
+}
+
+button {
+    padding: 6px 12px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+#msg {
+    color: darkgreen;
+    font-size: 18px;
+    margin-top: 20px;
+}
